@@ -638,8 +638,8 @@ section {
 }
 
 .about .skills-content .progress-bar {
-  width: 1px;
-  height: 10px;
+  width: 0px;
+  height: 30px;
   transition: 0.9s;
   background-color: #ffb727;
 }
